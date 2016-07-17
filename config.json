@@ -1,0 +1,13 @@
+{
+
+"password": "your_databse_password",
+"user": "your_databse_username ",
+"host": "localhost",
+"database": "your_databse_name",
+"mail_username": "your_email_username",
+"mail_password": "your_email_password",
+"sender": "address_to_appear_as_sender",
+"receiver": "email_where_notification _will_be_sent",
+"server": "smtp.gmail.com:587"
+
+}
