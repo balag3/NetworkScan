@@ -11,3 +11,4 @@ Designed to use on a Raspberry Pi via crontab.
 * Peewee
 * Nmap
 * Postgresql
+* Tkinter
